@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\CleverMove\CleverMove\bin\Debug\CleverMove.exe.config
+C:\Users\USER\source\repos\CleverMove\CleverMove\bin\Debug\CleverMove.exe
+C:\Users\USER\source\repos\CleverMove\CleverMove\bin\Debug\CleverMove.pdb
+C:\Users\USER\source\repos\CleverMove\CleverMove\obj\Debug\CleverMove.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\CleverMove\CleverMove\obj\Debug\CleverMove.Properties.Resources.resources
+C:\Users\USER\source\repos\CleverMove\CleverMove\obj\Debug\CleverMove.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\CleverMove\CleverMove\obj\Debug\CleverMove.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CleverMove\CleverMove\obj\Debug\CleverMove.exe
+C:\Users\USER\source\repos\CleverMove\CleverMove\obj\Debug\CleverMove.pdb
+C:\Users\USER\source\repos\CleverMove\CleverMove\obj\Debug\CleverMove.FormMain.resources
+C:\Users\USER\source\repos\CleverMove\CleverMove\obj\Debug\CleverMove.Mes.resources
